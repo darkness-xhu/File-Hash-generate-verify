@@ -16,6 +16,11 @@ File-Hash Generate and Verify is a Rust-based command-line tool designed to gene
 - Windows
 - Mac
 
+## REQUIREMENTS
+
+- **Internet**: Required for cloning the repository and any necessary updates.
+- **Storage**: 8.46 MB of disk space for the application.
+
 ## INSTALLATION
 
 ### Prerequisites:
