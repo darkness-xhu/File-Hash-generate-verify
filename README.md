@@ -44,7 +44,7 @@ cargo run
 ### 1. **Generate File Hash**:
 ```bash
 cargo run -- generate --file /path/to/file
-
+```
 ### 2. **Verify File Hash**:
 ```bash
 argo run -- verify --file /path/to/file --hash <expected_hash>
