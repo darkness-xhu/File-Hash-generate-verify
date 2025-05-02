@@ -24,4 +24,17 @@ Make sure you have **Rust** installed on your machine. If not, you can install i
 ### Steps to install:
 
 1. Clone the repository:
+   
+```
+https://github.com/darkness-xhu/File-Hash-generate-verify.git
+```
+2. Navigate into the project directory:
+```
+   cd File-Hash-generate-verify
+```
+
+3. Build and run the tool:
+```
+cargo run
+```
 
