@@ -52,7 +52,7 @@ cargo run -- generate --file /path/to/file
 ```
 ### 2. **Verify File Hash**:
 ```bash
-argo run -- verify --file /path/to/file --hash <expected_hash>
+argo run -- verify --file /path/to/file --hash <expected_hash> -e <expected file type> 
 
 ```
 ## CONNECT WITH US
