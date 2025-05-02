@@ -55,3 +55,15 @@ cargo run -- generate --file /path/to/file
 argo run -- verify --file /path/to/file --hash <expected_hash>
 
 ```
+## CONNECT WITH US
+
+- [Instagram](https://www.instagram.com/darkness.xhu)
+
+## WARNING
+
+**This tool is only for educational purposes.**  
+If you use this tool for any purposes other than education, we will not be held responsible for any consequences.
+
+## LICENSE
+
+This project is open-source and available under the [MIT License](LICENSE).
