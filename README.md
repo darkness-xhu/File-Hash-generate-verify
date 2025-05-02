@@ -35,7 +35,7 @@ https://github.com/darkness-xhu/File-Hash-generate-verify.git
 ```
 2. Navigate into the project directory:
 ```
-   cd File-Hash-generate-verify
+cd File-Hash-generate-verify
 ```
 
 3. Build and run the tool:
