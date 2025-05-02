@@ -55,9 +55,12 @@ cargo run -- generate --file /path/to/file
 argo run -- verify --file /path/to/file --hash <expected_hash> -e <expected file type> 
 
 ```
-## CONNECT WITH US
+This will compare the file's current hash with the provided hash and inform you if the file is intact or has been altered.
 
-- [Instagram](https://www.instagram.com/darkness.xhu)
+
+## CONNECT WITH US :
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/darkness.xhu)
+
 
 ## WARNING
 
